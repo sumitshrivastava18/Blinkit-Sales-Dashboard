@@ -69,6 +69,6 @@ Let's walk through what makes this dashboard so valuable:
 
 Here's a sneak peek at what the dashboard looks like\!
 
-
+![Dashboard Preview](https://github.com/sumitshrivastava18/Blinkit-Sales-Dashboard/blob/main/Blinkit_Dashboard.png)
 
 You can also download the `Blinkit_dashboard.xlsx` file and open it in Microsoft Excel to experience the full interactive dashboard and its features.
